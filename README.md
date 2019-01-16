@@ -24,6 +24,8 @@ I will break this guide down into three (3) parts:
 
 I will assume the monitor is connected properly to the GPU, displays an image from the computer and that all of the resources needed including downloading software is complete. Its also assumed that you have already set the resolution to display (IE: 2560x1440), set the refresh rate (IE: 144Hz) and set your desired G-Sync settings.
 
+Note: I found setting "response time" via the OSD (Display | Response Time) to "fast" to result in very noticable ghosting on the screen and fuzziness with quick movement on the screen. I personaly have this set to "normal" and feel it delivers the best balance of response time and picture quality. Page 11 of the manual states regarding response time "3ms (typical) for Normal mode" and "1ms (typical) for Fast mode". Feel free to try out both modes for yourself.
+
 ### Warning
 I am not responsible for any steps you take in an attempt to calibrate your monitor. The information provided is done so strickly as is and with not warranty explicit or implied. Should you choose to adjust these settings you do so at your own risk and fully understanding you are responsible for the outcome.
 
