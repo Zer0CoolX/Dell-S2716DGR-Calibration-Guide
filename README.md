@@ -11,7 +11,7 @@ The goal of this guide is to get better overall image quality from the Dell S271
 ### Resources
 - [Dell S2716DG manual](https://www.dell.com/support/home/us/en/19/product-support/product/dell-s2716dg-monitor/manuals)
 - [Dell S2716DG driver](https://www.dell.com/support/home/us/en/19/product-support/product/dell-s2716dg-monitor/drivers) Be sure to pick the proper OS from the drop down, IE: Windows 10 64-bit, Windows 7 64-bit, etc.
-- [Nvidia drivers](https://www.geforce.com/drivers) Be sure to pick the proper driver for your GPU if you have not installed it already. This should include the Nvidia Control Panel.
+- [Nvidia GeForce drivers](https://www.geforce.com/drivers) Be sure to pick the proper driver for your GPU if you have not installed it already. This should include the Nvidia Control Panel.
 
 ### Intro to Calibration
 This guide is not meant to be precise. I have not used equipment to measure color accuracy or other aspects of the calibration. Its simply meant to achieve the best overall picture, in my opinion, for using the Dell S2716DGR as it was meant to be used. The monitor is aimed at high performance gaming and I have found these settings to result in no ghosting, a sharp image with very good colors and a balanced brightness good for bright or dark environments.
