@@ -62,7 +62,7 @@ I recommend the following settings:
 ### 3 - Nvidia Control Panel Settings
 The Nvidia control panel can be opened by right clicking on the desktop backgroud and selecting Nvidia Control Panel from the context menu. There may also be an Nvidia icon in the notifications area, the bottom right of the screen by the clock on the taskbar, which will open the Nvidia Control Panel.
 
-On the left hand side select "Adjust desktop color settings". On the right, select "Use Nvidia settings". Take note of the "Color channel" drop down, we will be using this to switch to various groups of settings. It should, by default, be set to "All channels".
+Once opened, on the left hand side select "Adjust desktop color settings". On the right, select "Use Nvidia settings". Take note of the "Color channel" drop down, we will be using this to switch to various groups of settings. It should, by default, be set to "All channels".
 
 #### All Channels
 - Brightness: +45%
