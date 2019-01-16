@@ -47,7 +47,7 @@ Simply run the .exe file and follow the steps. Once installed device manager, or
 A reboot may not be needed, but I would recommend it anyhow.
 
 ### 2 - OSD Calibration
-These settings are applied directly on the monitor using the front panel (bottom right) physical buttons. The user manual for the Dell S2716DG clearly explain what each button does, but it is pretty intuitive even without that.
+These settings are applied directly on the monitor using the front panel (bottom right) physical buttons. The user manual for the Dell S2716DG clearly explains what each button does, but it is pretty intuitive even without that.
 
 I recommend the following settings:
 #### Monitor Settings
