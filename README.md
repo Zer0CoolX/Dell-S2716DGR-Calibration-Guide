@@ -85,6 +85,8 @@ Once opened, on the left hand side select "Adjust desktop color settings". On th
 - Contrast: +50%
 - Gamma: +1.00
 
+When complete click the "Apply" button to commit the changes. The Nvidia Control Panel can be closed now.
+
 ### Conclusion
 I have found the above to give me the best color and picture quality the Dell S2716DGR has to offer. After calibrating the colors, I have no complaints about the color reproduction or picture. I am really enjoying gaming on the Dell S2716DGR. Hopefully these settings will help others enjoy the S2716DG to its maximum potential.
 
