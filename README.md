@@ -1,6 +1,8 @@
 # Dell S2716DGR Calibration Guide
 The goal of this guide is to get better overall image quality from the Dell S2716DG or S2716DGR 27" 2560x1440p 144Hz G-Sync monitor. Out of the box this monitor has a reputation for washed out colors, but when calibrated has a crisp, sharp image with very good color reproduction. The difference from out of the box to calibrated is a night and day change and well worth spending a couple of minutes to tweak. Going forward, I will use the models S2716DG and S2716DGR interchangably. The only difference is one is a retail model, all specs are the same.
 
+Test
+
 ### Requirements
 - A Dell S2716DG or S2716DGR 27" 2k 144Hz G-Sync Monitor
 - A modern Nvidia GPU
